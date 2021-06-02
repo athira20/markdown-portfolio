@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. Flowers
+2. Vegetables
+3. Herbs
+    1. Medicinal
+    2. Edible
